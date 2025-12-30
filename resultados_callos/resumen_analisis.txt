@@ -1,0 +1,779 @@
+================================================================================
+RESUMEN DE ANÁLISIS DE CALLOS VEGETALES
+================================================================================
+
+Total de imágenes procesadas: 16
+Total de callos detectados: 131
+Promedio de callos por imagen: 8.19
+
+--------------------------------------------------------------------------------
+DETALLE POR IMAGEN
+--------------------------------------------------------------------------------
+
+
+Imagen: p100.png
+Número de callos: 8
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 6310.50 píxeles²
+    * Perímetro: 332.98 píxeles
+    * Circularidad: 0.715
+    * Dimensiones: 106x89 px
+  - Callo #2:
+    * Área: 8448.50 píxeles²
+    * Perímetro: 414.23 píxeles
+    * Circularidad: 0.619
+    * Dimensiones: 100x129 px
+  - Callo #3:
+    * Área: 927.00 píxeles²
+    * Perímetro: 119.74 píxeles
+    * Circularidad: 0.812
+    * Dimensiones: 34x38 px
+  - Callo #4:
+    * Área: 13025.00 píxeles²
+    * Perímetro: 695.27 píxeles
+    * Circularidad: 0.339
+    * Dimensiones: 113x209 px
+  - Callo #5:
+    * Área: 6646.50 píxeles²
+    * Perímetro: 360.15 píxeles
+    * Circularidad: 0.644
+    * Dimensiones: 94x111 px
+  - Callo #6:
+    * Área: 7891.50 píxeles²
+    * Perímetro: 395.61 píxeles
+    * Circularidad: 0.634
+    * Dimensiones: 97x127 px
+  - Callo #7:
+    * Área: 7328.00 píxeles²
+    * Perímetro: 431.45 píxeles
+    * Circularidad: 0.495
+    * Dimensiones: 107x123 px
+  - Callo #8:
+    * Área: 5184.00 píxeles²
+    * Perímetro: 351.85 píxeles
+    * Circularidad: 0.526
+    * Dimensiones: 83x102 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p101.png
+Número de callos: 10
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 580.00 píxeles²
+    * Perímetro: 318.91 píxeles
+    * Circularidad: 0.072
+    * Dimensiones: 81x80 px
+  - Callo #2:
+    * Área: 6700.50 píxeles²
+    * Perímetro: 370.09 píxeles
+    * Circularidad: 0.615
+    * Dimensiones: 121x93 px
+  - Callo #3:
+    * Área: 5290.50 píxeles²
+    * Perímetro: 318.01 píxeles
+    * Circularidad: 0.657
+    * Dimensiones: 73x111 px
+  - Callo #4:
+    * Área: 7009.00 píxeles²
+    * Perímetro: 377.50 píxeles
+    * Circularidad: 0.618
+    * Dimensiones: 104x95 px
+  - Callo #5:
+    * Área: 3898.50 píxeles²
+    * Perímetro: 249.24 píxeles
+    * Circularidad: 0.789
+    * Dimensiones: 80x67 px
+  - Callo #6:
+    * Área: 6768.00 píxeles²
+    * Perímetro: 353.91 píxeles
+    * Circularidad: 0.679
+    * Dimensiones: 105x95 px
+  - Callo #7:
+    * Área: 5605.50 píxeles²
+    * Perímetro: 332.35 píxeles
+    * Circularidad: 0.638
+    * Dimensiones: 80x98 px
+  - Callo #8:
+    * Área: 7948.00 píxeles²
+    * Perímetro: 394.68 píxeles
+    * Circularidad: 0.641
+    * Dimensiones: 99x121 px
+  - Callo #9:
+    * Área: 6786.50 píxeles²
+    * Perímetro: 369.12 píxeles
+    * Circularidad: 0.626
+    * Dimensiones: 83x119 px
+  - Callo #10:
+    * Área: 8124.50 píxeles²
+    * Perímetro: 392.72 píxeles
+    * Circularidad: 0.662
+    * Dimensiones: 93x124 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p102.png
+Número de callos: 4
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 6500.00 píxeles²
+    * Perímetro: 354.88 píxeles
+    * Circularidad: 0.649
+    * Dimensiones: 78x116 px
+  - Callo #2:
+    * Área: 6056.50 píxeles²
+    * Perímetro: 316.15 píxeles
+    * Circularidad: 0.761
+    * Dimensiones: 91x97 px
+  - Callo #3:
+    * Área: 6378.00 píxeles²
+    * Perímetro: 369.50 píxeles
+    * Circularidad: 0.587
+    * Dimensiones: 103x121 px
+  - Callo #4:
+    * Área: 6469.00 píxeles²
+    * Perímetro: 357.76 píxeles
+    * Circularidad: 0.635
+    * Dimensiones: 77x120 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p103.png
+Número de callos: 8
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 2538.00 píxeles²
+    * Perímetro: 234.79 píxeles
+    * Circularidad: 0.579
+    * Dimensiones: 87x50 px
+  - Callo #2:
+    * Área: 7488.00 píxeles²
+    * Perímetro: 365.02 píxeles
+    * Circularidad: 0.706
+    * Dimensiones: 125x85 px
+  - Callo #3:
+    * Área: 6207.00 píxeles²
+    * Perímetro: 342.94 píxeles
+    * Circularidad: 0.663
+    * Dimensiones: 72x116 px
+  - Callo #4:
+    * Área: 2577.50 píxeles²
+    * Perímetro: 229.24 píxeles
+    * Circularidad: 0.616
+    * Dimensiones: 77x55 px
+  - Callo #5:
+    * Área: 6701.00 píxeles²
+    * Perímetro: 362.88 píxeles
+    * Circularidad: 0.639
+    * Dimensiones: 83x121 px
+  - Callo #6:
+    * Área: 3314.00 píxeles²
+    * Perímetro: 254.31 píxeles
+    * Circularidad: 0.644
+    * Dimensiones: 64x80 px
+  - Callo #7:
+    * Área: 5357.00 píxeles²
+    * Perímetro: 327.02 píxeles
+    * Circularidad: 0.629
+    * Dimensiones: 116x81 px
+  - Callo #8:
+    * Área: 4006.00 píxeles²
+    * Perímetro: 309.08 píxeles
+    * Circularidad: 0.527
+    * Dimensiones: 93x80 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p110.png
+Número de callos: 8
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 2603.00 píxeles²
+    * Perímetro: 263.28 píxeles
+    * Circularidad: 0.472
+    * Dimensiones: 62x82 px
+  - Callo #2:
+    * Área: 2526.00 píxeles²
+    * Perímetro: 270.45 píxeles
+    * Circularidad: 0.434
+    * Dimensiones: 58x88 px
+  - Callo #3:
+    * Área: 594.00 píxeles²
+    * Perímetro: 160.63 píxeles
+    * Circularidad: 0.289
+    * Dimensiones: 11x73 px
+  - Callo #4:
+    * Área: 2834.50 píxeles²
+    * Perímetro: 317.46 píxeles
+    * Circularidad: 0.353
+    * Dimensiones: 67x107 px
+  - Callo #5:
+    * Área: 2373.50 píxeles²
+    * Perímetro: 221.92 píxeles
+    * Circularidad: 0.606
+    * Dimensiones: 50x75 px
+  - Callo #6:
+    * Área: 4328.50 píxeles²
+    * Perímetro: 319.32 píxeles
+    * Circularidad: 0.533
+    * Dimensiones: 102x84 px
+  - Callo #7:
+    * Área: 714.50 píxeles²
+    * Perímetro: 187.21 píxeles
+    * Circularidad: 0.256
+    * Dimensiones: 14x86 px
+  - Callo #8:
+    * Área: 6427.00 píxeles²
+    * Perímetro: 352.88 píxeles
+    * Circularidad: 0.649
+    * Dimensiones: 96x109 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p111.png
+Número de callos: 8
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 6575.00 píxeles²
+    * Perímetro: 400.62 píxeles
+    * Circularidad: 0.515
+    * Dimensiones: 132x85 px
+  - Callo #2:
+    * Área: 512.50 píxeles²
+    * Perímetro: 176.81 píxeles
+    * Circularidad: 0.206
+    * Dimensiones: 18x72 px
+  - Callo #3:
+    * Área: 12523.50 píxeles²
+    * Perímetro: 700.48 píxeles
+    * Circularidad: 0.321
+    * Dimensiones: 110x216 px
+  - Callo #4:
+    * Área: 6862.00 píxeles²
+    * Perímetro: 358.59 píxeles
+    * Circularidad: 0.671
+    * Dimensiones: 109x83 px
+  - Callo #5:
+    * Área: 627.00 píxeles²
+    * Perímetro: 133.46 píxeles
+    * Circularidad: 0.442
+    * Dimensiones: 15x58 px
+  - Callo #6:
+    * Área: 4133.50 píxeles²
+    * Perímetro: 282.69 píxeles
+    * Circularidad: 0.650
+    * Dimensiones: 79x86 px
+  - Callo #7:
+    * Área: 7878.00 píxeles²
+    * Perímetro: 441.45 píxeles
+    * Circularidad: 0.508
+    * Dimensiones: 111x131 px
+  - Callo #8:
+    * Área: 22313.50 píxeles²
+    * Perímetro: 1150.27 píxeles
+    * Circularidad: 0.212
+    * Dimensiones: 104x384 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p112.png
+Número de callos: 11
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 598.00 píxeles²
+    * Perímetro: 180.77 píxeles
+    * Circularidad: 0.230
+    * Dimensiones: 12x79 px
+  - Callo #2:
+    * Área: 5929.50 píxeles²
+    * Perímetro: 344.98 píxeles
+    * Circularidad: 0.626
+    * Dimensiones: 103x97 px
+  - Callo #3:
+    * Área: 6380.00 píxeles²
+    * Perímetro: 359.56 píxeles
+    * Circularidad: 0.620
+    * Dimensiones: 80x116 px
+  - Callo #4:
+    * Área: 1097.50 píxeles²
+    * Perímetro: 212.53 píxeles
+    * Circularidad: 0.305
+    * Dimensiones: 16x96 px
+  - Callo #5:
+    * Área: 4608.00 píxeles²
+    * Perímetro: 293.28 píxeles
+    * Circularidad: 0.673
+    * Dimensiones: 94x65 px
+  - Callo #6:
+    * Área: 3940.00 píxeles²
+    * Perímetro: 256.59 píxeles
+    * Circularidad: 0.752
+    * Dimensiones: 71x88 px
+  - Callo #7:
+    * Área: 817.00 píxeles²
+    * Perímetro: 213.94 píxeles
+    * Circularidad: 0.224
+    * Dimensiones: 12x98 px
+  - Callo #8:
+    * Área: 739.50 píxeles²
+    * Perímetro: 199.70 píxeles
+    * Circularidad: 0.233
+    * Dimensiones: 13x90 px
+  - Callo #9:
+    * Área: 1976.50 píxeles²
+    * Perímetro: 274.01 píxeles
+    * Circularidad: 0.331
+    * Dimensiones: 74x66 px
+  - Callo #10:
+    * Área: 7473.50 píxeles²
+    * Perímetro: 388.43 píxeles
+    * Circularidad: 0.622
+    * Dimensiones: 91x124 px
+  - Callo #11:
+    * Área: 5953.50 píxeles²
+    * Perímetro: 336.63 píxeles
+    * Circularidad: 0.660
+    * Dimensiones: 100x100 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p113.png
+Número de callos: 10
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 17280.00 píxeles²
+    * Perímetro: 749.47 píxeles
+    * Circularidad: 0.387
+    * Dimensiones: 260x109 px
+  - Callo #2:
+    * Área: 4557.50 píxeles²
+    * Perímetro: 306.15 píxeles
+    * Circularidad: 0.611
+    * Dimensiones: 88x90 px
+  - Callo #3:
+    * Área: 600.00 píxeles²
+    * Perímetro: 213.11 píxeles
+    * Circularidad: 0.166
+    * Dimensiones: 11x98 px
+  - Callo #4:
+    * Área: 7550.00 píxeles²
+    * Perímetro: 367.85 píxeles
+    * Circularidad: 0.701
+    * Dimensiones: 115x98 px
+  - Callo #5:
+    * Área: 2161.50 píxeles²
+    * Perímetro: 317.38 píxeles
+    * Circularidad: 0.270
+    * Dimensiones: 108x53 px
+  - Callo #6:
+    * Área: 6245.00 píxeles²
+    * Perímetro: 365.22 píxeles
+    * Circularidad: 0.588
+    * Dimensiones: 88x114 px
+  - Callo #7:
+    * Área: 7439.50 píxeles²
+    * Perímetro: 371.81 píxeles
+    * Circularidad: 0.676
+    * Dimensiones: 104x108 px
+  - Callo #8:
+    * Área: 723.50 píxeles²
+    * Perímetro: 237.50 píxeles
+    * Circularidad: 0.161
+    * Dimensiones: 106x12 px
+  - Callo #9:
+    * Área: 553.00 píxeles²
+    * Perímetro: 132.63 píxeles
+    * Circularidad: 0.395
+    * Dimensiones: 59x13 px
+  - Callo #10:
+    * Área: 1639.00 píxeles²
+    * Perímetro: 350.85 píxeles
+    * Circularidad: 0.167
+    * Dimensiones: 131x38 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p120.png
+Número de callos: 6
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 14346.50 píxeles²
+    * Perímetro: 733.03 píxeles
+    * Circularidad: 0.336
+    * Dimensiones: 247x106 px
+  - Callo #2:
+    * Área: 13903.50 píxeles²
+    * Perímetro: 700.20 píxeles
+    * Circularidad: 0.356
+    * Dimensiones: 112x209 px
+  - Callo #3:
+    * Área: 4365.50 píxeles²
+    * Perímetro: 295.52 píxeles
+    * Circularidad: 0.628
+    * Dimensiones: 99x64 px
+  - Callo #4:
+    * Área: 667.00 píxeles²
+    * Perímetro: 200.57 píxeles
+    * Circularidad: 0.208
+    * Dimensiones: 16x81 px
+  - Callo #5:
+    * Área: 13893.00 píxeles²
+    * Perímetro: 761.49 píxeles
+    * Circularidad: 0.301
+    * Dimensiones: 239x114 px
+  - Callo #6:
+    * Área: 16842.00 píxeles²
+    * Perímetro: 743.01 píxeles
+    * Circularidad: 0.383
+    * Dimensiones: 118x247 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p121.png
+Número de callos: 12
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 676.00 píxeles²
+    * Perímetro: 185.74 píxeles
+    * Circularidad: 0.246
+    * Dimensiones: 39x58 px
+  - Callo #2:
+    * Área: 7315.00 píxeles²
+    * Perímetro: 381.16 píxeles
+    * Circularidad: 0.633
+    * Dimensiones: 132x83 px
+  - Callo #3:
+    * Área: 6254.50 píxeles²
+    * Perímetro: 365.38 píxeles
+    * Circularidad: 0.589
+    * Dimensiones: 101x99 px
+  - Callo #4:
+    * Área: 3805.00 píxeles²
+    * Perímetro: 295.28 píxeles
+    * Circularidad: 0.548
+    * Dimensiones: 73x101 px
+  - Callo #5:
+    * Área: 3238.50 píxeles²
+    * Perímetro: 244.21 píxeles
+    * Circularidad: 0.682
+    * Dimensiones: 77x64 px
+  - Callo #6:
+    * Área: 989.50 píxeles²
+    * Perímetro: 124.81 píxeles
+    * Circularidad: 0.798
+    * Dimensiones: 36x40 px
+  - Callo #7:
+    * Área: 1285.00 píxeles²
+    * Perímetro: 150.02 píxeles
+    * Circularidad: 0.717
+    * Dimensiones: 51x42 px
+  - Callo #8:
+    * Área: 616.50 píxeles²
+    * Perímetro: 200.53 píxeles
+    * Circularidad: 0.193
+    * Dimensiones: 12x90 px
+  - Callo #9:
+    * Área: 5093.50 píxeles²
+    * Perímetro: 304.35 píxeles
+    * Circularidad: 0.691
+    * Dimensiones: 81x93 px
+  - Callo #10:
+    * Área: 4966.00 píxeles²
+    * Perímetro: 286.74 píxeles
+    * Circularidad: 0.759
+    * Dimensiones: 99x75 px
+  - Callo #11:
+    * Área: 5840.00 píxeles²
+    * Perímetro: 350.05 píxeles
+    * Circularidad: 0.599
+    * Dimensiones: 87x107 px
+  - Callo #12:
+    * Área: 576.00 píxeles²
+    * Perímetro: 150.63 píxeles
+    * Circularidad: 0.319
+    * Dimensiones: 47x31 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p122.png
+Número de callos: 11
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 519.50 píxeles²
+    * Perímetro: 177.01 píxeles
+    * Circularidad: 0.208
+    * Dimensiones: 25x68 px
+  - Callo #2:
+    * Área: 6281.00 píxeles²
+    * Perímetro: 361.22 píxeles
+    * Circularidad: 0.605
+    * Dimensiones: 110x95 px
+  - Callo #3:
+    * Área: 4719.00 píxeles²
+    * Perímetro: 294.59 píxeles
+    * Circularidad: 0.683
+    * Dimensiones: 91x80 px
+  - Callo #4:
+    * Área: 6464.50 píxeles²
+    * Perímetro: 341.95 píxeles
+    * Circularidad: 0.695
+    * Dimensiones: 103x103 px
+  - Callo #5:
+    * Área: 734.00 píxeles²
+    * Perímetro: 172.97 píxeles
+    * Circularidad: 0.308
+    * Dimensiones: 11x80 px
+  - Callo #6:
+    * Área: 5666.50 píxeles²
+    * Perímetro: 382.09 píxeles
+    * Circularidad: 0.488
+    * Dimensiones: 114x92 px
+  - Callo #7:
+    * Área: 5127.50 píxeles²
+    * Perímetro: 322.98 píxeles
+    * Circularidad: 0.618
+    * Dimensiones: 98x93 px
+  - Callo #8:
+    * Área: 8057.50 píxeles²
+    * Perímetro: 375.61 píxeles
+    * Circularidad: 0.718
+    * Dimensiones: 117x91 px
+  - Callo #9:
+    * Área: 5221.00 píxeles²
+    * Perímetro: 344.74 píxeles
+    * Circularidad: 0.552
+    * Dimensiones: 114x62 px
+  - Callo #10:
+    * Área: 5556.00 píxeles²
+    * Perímetro: 322.39 píxeles
+    * Circularidad: 0.672
+    * Dimensiones: 85x96 px
+  - Callo #11:
+    * Área: 3599.00 píxeles²
+    * Perímetro: 264.11 píxeles
+    * Circularidad: 0.648
+    * Dimensiones: 66x84 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p123.png
+Número de callos: 3
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 684.00 píxeles²
+    * Perímetro: 229.46 píxeles
+    * Circularidad: 0.163
+    * Dimensiones: 107x10 px
+  - Callo #2:
+    * Área: 547.00 píxeles²
+    * Perímetro: 112.28 píxeles
+    * Circularidad: 0.545
+    * Dimensiones: 48x16 px
+  - Callo #3:
+    * Área: 1090.50 píxeles²
+    * Perímetro: 225.98 píxeles
+    * Circularidad: 0.268
+    * Dimensiones: 95x30 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p130.png
+Número de callos: 11
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 505.50 píxeles²
+    * Perímetro: 106.73 píxeles
+    * Circularidad: 0.558
+    * Dimensiones: 14x44 px
+  - Callo #2:
+    * Área: 631.50 píxeles²
+    * Perímetro: 142.38 píxeles
+    * Circularidad: 0.391
+    * Dimensiones: 14x63 px
+  - Callo #3:
+    * Área: 7406.50 píxeles²
+    * Perímetro: 395.75 píxeles
+    * Circularidad: 0.594
+    * Dimensiones: 120x97 px
+  - Callo #4:
+    * Área: 6303.00 píxeles²
+    * Perímetro: 341.02 píxeles
+    * Circularidad: 0.681
+    * Dimensiones: 83x122 px
+  - Callo #5:
+    * Área: 8624.50 píxeles²
+    * Perímetro: 406.58 píxeles
+    * Circularidad: 0.656
+    * Dimensiones: 113x129 px
+  - Callo #6:
+    * Área: 659.00 píxeles²
+    * Perímetro: 162.97 píxeles
+    * Circularidad: 0.312
+    * Dimensiones: 11x75 px
+  - Callo #7:
+    * Área: 4374.00 píxeles²
+    * Perímetro: 299.76 píxeles
+    * Circularidad: 0.612
+    * Dimensiones: 89x75 px
+  - Callo #8:
+    * Área: 686.50 píxeles²
+    * Perímetro: 204.18 píxeles
+    * Circularidad: 0.207
+    * Dimensiones: 18x91 px
+  - Callo #9:
+    * Área: 17535.00 píxeles²
+    * Perímetro: 940.89 píxeles
+    * Circularidad: 0.249
+    * Dimensiones: 229x217 px
+  - Callo #10:
+    * Área: 5190.00 píxeles²
+    * Perímetro: 344.33 píxeles
+    * Circularidad: 0.550
+    * Dimensiones: 82x108 px
+  - Callo #11:
+    * Área: 7234.00 píxeles²
+    * Perímetro: 376.05 píxeles
+    * Circularidad: 0.643
+    * Dimensiones: 100x116 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p131.png
+Número de callos: 9
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 605.50 píxeles²
+    * Perímetro: 149.56 píxeles
+    * Circularidad: 0.340
+    * Dimensiones: 12x68 px
+  - Callo #2:
+    * Área: 4851.00 píxeles²
+    * Perímetro: 308.94 píxeles
+    * Circularidad: 0.639
+    * Dimensiones: 88x89 px
+  - Callo #3:
+    * Área: 6960.50 píxeles²
+    * Perímetro: 344.29 píxeles
+    * Circularidad: 0.738
+    * Dimensiones: 88x111 px
+  - Callo #4:
+    * Área: 521.50 píxeles²
+    * Perímetro: 105.70 píxeles
+    * Circularidad: 0.587
+    * Dimensiones: 16x44 px
+  - Callo #5:
+    * Área: 5887.00 píxeles²
+    * Perímetro: 333.08 píxeles
+    * Circularidad: 0.667
+    * Dimensiones: 97x100 px
+  - Callo #6:
+    * Área: 14386.00 píxeles²
+    * Perímetro: 629.47 píxeles
+    * Circularidad: 0.456
+    * Dimensiones: 118x211 px
+  - Callo #7:
+    * Área: 5903.00 píxeles²
+    * Perímetro: 326.39 píxeles
+    * Circularidad: 0.696
+    * Dimensiones: 89x106 px
+  - Callo #8:
+    * Área: 6141.50 píxeles²
+    * Perímetro: 354.43 píxeles
+    * Circularidad: 0.614
+    * Dimensiones: 112x84 px
+  - Callo #9:
+    * Área: 11403.50 píxeles²
+    * Perímetro: 625.65 píxeles
+    * Circularidad: 0.366
+    * Dimensiones: 121x191 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p132.png
+Número de callos: 6
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 899.00 píxeles²
+    * Perímetro: 161.11 píxeles
+    * Circularidad: 0.435
+    * Dimensiones: 19x70 px
+  - Callo #2:
+    * Área: 2646.50 píxeles²
+    * Perímetro: 219.72 píxeles
+    * Circularidad: 0.689
+    * Dimensiones: 61x69 px
+  - Callo #3:
+    * Área: 508.00 píxeles²
+    * Perímetro: 106.63 píxeles
+    * Circularidad: 0.561
+    * Dimensiones: 15x45 px
+  - Callo #4:
+    * Área: 3386.50 píxeles²
+    * Perímetro: 312.55 píxeles
+    * Circularidad: 0.436
+    * Dimensiones: 58x113 px
+  - Callo #5:
+    * Área: 4541.50 píxeles²
+    * Perímetro: 295.32 píxeles
+    * Circularidad: 0.654
+    * Dimensiones: 86x82 px
+  - Callo #6:
+    * Área: 5723.50 píxeles²
+    * Perímetro: 312.15 píxeles
+    * Circularidad: 0.738
+    * Dimensiones: 101x81 px
+
+--------------------------------------------------------------------------------
+
+Imagen: p133.png
+Número de callos: 6
+
+Detalle de cada callo:
+  - Callo #1:
+    * Área: 8023.50 píxeles²
+    * Perímetro: 400.58 píxeles
+    * Circularidad: 0.628
+    * Dimensiones: 119x113 px
+  - Callo #2:
+    * Área: 16584.00 píxeles²
+    * Perímetro: 708.52 píxeles
+    * Circularidad: 0.415
+    * Dimensiones: 238x113 px
+  - Callo #3:
+    * Área: 1939.50 píxeles²
+    * Perímetro: 187.10 píxeles
+    * Circularidad: 0.696
+    * Dimensiones: 56x57 px
+  - Callo #4:
+    * Área: 8976.00 píxeles²
+    * Perímetro: 448.48 píxeles
+    * Circularidad: 0.561
+    * Dimensiones: 109x126 px
+  - Callo #5:
+    * Área: 9614.00 píxeles²
+    * Perímetro: 402.53 píxeles
+    * Circularidad: 0.746
+    * Dimensiones: 116x118 px
+  - Callo #6:
+    * Área: 22655.00 píxeles²
+    * Perímetro: 1029.80 píxeles
+    * Circularidad: 0.268
+    * Dimensiones: 247x230 px
+
+--------------------------------------------------------------------------------
